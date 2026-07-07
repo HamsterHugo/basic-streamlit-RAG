@@ -36,7 +36,7 @@ To use this application, you need:
 ---
 
 ## 📂 Project Structure
-
+```
 basic-streamlit-RAG/
 ├── fair_db/            # Folder for the FAISS vector database (created automatically)
 ├── uploaded_files/     # Folder for uploaded PDFs (created automatically)
@@ -44,6 +44,7 @@ basic-streamlit-RAG/
 ├── chatbot.py          # Main Streamlit application
 ├── README.md           # This file
 └── requirements.txt    # Dependencies
+```
 
 ---
 
